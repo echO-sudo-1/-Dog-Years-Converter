@@ -37,7 +37,8 @@ Language: C++ (C++11 or higher)
 
 I/O Operations: <iostream>
 
-
+📄 License
+This project is open-source and available under the MIT License.
 
 
 
