@@ -14,24 +14,21 @@ Any standard C++ compiler (e.g., g++, clang++, or MSVC).
 Execution Steps
 Clone the repository:
 
-Bash
+
 git clone [https://github.com/echO-sudo-1/dog-years-converter.git](https://github.com/echO-sudo-1/dog-years-converter.git)
 cd dog-years-converter
 
 Compile the program:
-
-Bash
 g++ -o dog_years main.cpp
 Run the executable:
 
 Linux/macOS:
-Bash
+
 ./dog_years
 Windows:
 dog_years.exe
 
-Output Example
-Plaintext
+Output Example:
 give the age of your dog: 5
 My name is rocky! Ruff ruff, I am 33 years old in human years.
 
